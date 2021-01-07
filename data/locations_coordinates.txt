@@ -1,0 +1,9 @@
+Location	Adress used to find coordinates	Latitude	Longitude
+Berlin	Hardenbergplatz 8, 10787 Berlin, Germany	52.506809	13.33418
+Gettorf	SŸderstra§e 33, 24214 Gettorf, Germany	54.40329	9.97417
+ArcheWarder	Langwedeler Weg 11, 24646 Warder, Germany	54.21467	9.90702
+Neumunster	Geerdtsstra§e 100, 24537 NeumŸnster, Germany	54.0911	9.94528
+Kiel	Kiel, Germany	54.323292	10.122765
+Schwaigern	FreudenmŸhle 1, 74193 Schwaigern, Germany	49.14209	9.0756
+Hagenbeck	Lokstedter Grenzstra§e 2, 22527 Hamburg, Germany	53.59486	9.94154
+Leipzig	Pfaffendorfer Str. 29, 04105 Leipzig, Germany	51.34834	12.37096
