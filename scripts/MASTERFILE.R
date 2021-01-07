@@ -8,7 +8,7 @@ set.seed(99)
 project_path = ""
 
 path_scripts = file.path(project_path, "scripts/")
-path_data = file.path(project_path, "scripts/")
+path_data = file.path(project_path, "data/")
 path_data_processed = file.path(project_path, "data/16S_DADA2_processed//")
 path_results = file.path(project_path, "results/")
 path_illustrations = file.path(project_path, "results/Illustrations/")
